@@ -2,8 +2,8 @@
 
 #### Build Using
 - React
-  * Redux - for application state management
--Firebase
+- Redux - for application state management 
+- Firebase
 
 ## Demo
 
